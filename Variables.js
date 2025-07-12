@@ -11,7 +11,7 @@ city = "Hyderabad"
 accountEmail = "bbjwfkl"
 
 // we can chang the value of let and var 
-// preffer to use let because in var there is no scope 
+// preffer to use let because in ar there is no scope 
 
 console.log("ID =" ,  accountId)
 console.log("Email =" ,  accountEmail)
